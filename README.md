@@ -1,4 +1,4 @@
-# Semverify
+# gulp-semverify
 
 Used to warn when your package dependencies don't match your semver policy. Helps w/ enforcing a particular dependency version policy.
 
@@ -31,4 +31,4 @@ Error in plugin 'gulp-semverify'
 There were policy violations with one or more of your dependencies.
 ```
 
-See [semverify](https://github.com/MandarinConLaBarba/semverify) for gulp integration.
+See [semverify](https://github.com/MandarinConLaBarba/semverify).
