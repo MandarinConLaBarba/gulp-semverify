@@ -1,6 +1,6 @@
 {
   "name": "gulp-semverify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp plugin that checks package.json dependencies to make sure they meet version policy",
   "main": "index.js",
   "author": "Mandarin Drummond",
@@ -8,7 +8,7 @@
   "dependencies": {
     "through2": "^0.5.1",
     "gulp-util": "^2.2.19",
-    "semverify" : "^0.0.1"
+    "semverify" : "^0.0.2"
   },
   "devDependencies": {
     "should": "^4.0.4",
